@@ -123,7 +123,7 @@ int main(void)
     HAL_GPIO_TogglePin(LED0_GPIO_Port, LED0_Pin);
     rt_thread_mdelay(333);
     //比如我现在修改了这个文件
-    //再修改一下
+    //修改
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
